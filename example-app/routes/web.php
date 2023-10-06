@@ -26,6 +26,10 @@ Route::get('/planeten', function () {
             'name' => 'Jupiter',
             'description' => 'Jupiter is a gas giant and doesn\'t have a solid surface, but it may have a solid inner core about the size of Earth.'
         ],
+        [
+            'name' => 'Uranus',
+            'description' => 'Jupiter is a gas giant and doesn\'t have a solid surface, but it may have a solid inner core about the size of Earth.'
+        ]
     ];
 
     
